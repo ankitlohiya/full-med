@@ -12,7 +12,7 @@
     "automation"
   ],
   "main": "index.js",
-  "scripts": {
+  "scripts": { "start": "node index.js",
     "test": "mocha ./tests/lib.js"
   },
   "repository": "https://github.com/ankitlohiya/full-med.git",
