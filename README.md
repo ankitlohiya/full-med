@@ -1,3 +1,7 @@
+
+
+![CodeShipStatus]https://codeship.com/projects/a58fc150-cf31-0134-1f26-26f74005f445/status?branch=master
+
 # node-js-getting-started
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
