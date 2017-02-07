@@ -46,7 +46,7 @@
     "sinon": "^1.17.6",
     "express": "3.10.9",
     "date-and-time": "3.10.9",
-    "body-Parser": "3.10.9",
+    "body-parser": "3.10.9",
     "crypto": "3.10.9",
     "request": "3.10.9",
     "fetch": "3.10.9"
