@@ -1,5 +1,5 @@
 {
-  "name": "node-wit",
+  "name": "full-med",
   "version": "4.2.0",
   "description": "Wit.ai Node.js SDK",
   "keywords": [
@@ -19,7 +19,20 @@
   "author": "The Wit Team <help@wit.ai>",
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
-    "uuid": "^3.0.0"
+    "uuid": "^3.0.0",
+     "babel-cli": "^6.16.0",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2",
+    "sinon": "^1.17.6",
+    "express": "3.10.9",
+    "date-and-time": "3.10.9",
+    "body-Parser": "3.10.9",
+    "crypto": "3.10.9",
+    "request": "3.10.9",
+    "fetch": "3.10.9"
+    
   },
   "engines": {
     "node": "7.2.0"
