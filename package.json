@@ -15,14 +15,14 @@
   "scripts": {
     "test": "mocha ./tests/lib.js"
   },
-  "repository": "https://github.com/wit-ai/node-wit",
+  "repository": "https://github.com/ankitlohiya/full-med.git",
   "author": "The Wit Team <help@wit.ai>",
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
     "uuid": "^3.0.0"
   },
   "engines": {
-    "node": ">=4.0.0"
+    "node": "7.2.0"
   },
   "devDependencies": {
     "babel-cli": "^6.16.0",
@@ -30,6 +30,14 @@
     "babel-preset-stage-0": "^6.16.0",
     "chai": "^3.5.0",
     "mocha": "^3.1.2",
-    "sinon": "^1.17.6"
+    "sinon": "^1.17.6",
+    "express": "3.10.9",
+    "date-and-time": "3.10.9",
+    "body-Parser": "3.10.9",
+    "crypto": "3.10.9",
+    "request": "3.10.9",
+    "fetch": "3.10.9"
+    
+    
   }
 }
